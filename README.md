@@ -32,11 +32,13 @@ Here are some ideas to get you started:
  
 # 🛠Skills🛠
 ### Platforms & Languages
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ##  🔧Tools🔨
 <div align="center">
+ 
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
 
  </div>
@@ -44,6 +46,7 @@ Here are some ideas to get you started:
 
 </div>
 <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
 <h1> Experience </h1>
 
