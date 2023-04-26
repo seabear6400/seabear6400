@@ -22,20 +22,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=radical)
                                                         
-                                                        
-                                             
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BEF781&height=150&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-
-
-# 자기소개
-
-
-# Information
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badapiri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badapiri&layout=compact&theme=tokyonight)
+                                                      
 # 🛠Skills🛠
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
