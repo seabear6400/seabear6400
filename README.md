@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400ID&show_icons=true&theme=radical)
+
 <!--
 **seabear6400/seabear6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sungwoo's+GitHub!👋)](https://git.io/typing-svg)
  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=radical)
