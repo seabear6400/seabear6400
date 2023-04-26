@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 # Information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=radical)
 
-
+Used language(사용하는 언어)
+  ---------------------
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ 
 ## 💭 About me
  <h4>sungwoo Kim (김성우)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
