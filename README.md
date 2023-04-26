@@ -45,9 +45,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
 <h1> Experience </h1>
 
+### MY SNS 📷
+
+
 | What | When | What | When|
 |:--------:|:--------:|:--------:|:--------:|
 | 성일정보고등학교 알고리즘 스터디 | 2023. 04 ~ 현재 |성일정보고등학교 프로그래밍 동아리 | 2023. 03 ~ 현재 |
 </div>
-
-### MY SNS 📷
