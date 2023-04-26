@@ -20,6 +20,11 @@ Here are some ideas to get you started:
  
 # Information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=radical)
+
+
+## 💭 About me
+ <h4>LEE SOLJI (이솔지)</h4>
+ <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
                                                         
                                                       
 # 🛠Skills🛠
