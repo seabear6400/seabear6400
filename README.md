@@ -30,8 +30,16 @@ Here are some ideas to get you started:
 # 🛠Skills🛠
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+##  🔧Tools🔨
+<div align="center">
+<img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+ </div>
+</div>
 
-### 🔧Tools🔨
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+</div>
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
 
 ### MY SNS 📷
