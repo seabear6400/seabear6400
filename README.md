@@ -28,9 +28,11 @@ Here are some ideas to get you started:
  <h4>동아리 : 프로그래머스</h4>                                                       
  <h4>스터디 : 해킹스터디,개발스터디</h4>
  <h4>개발 스터디 : 알고리즘 수업</h4>
+ 
 # 🛠Skills🛠
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
 ##  🔧Tools🔨
 <div align="center">
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
