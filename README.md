@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 💭 About me
- <h4>sougwoo Kim (김성우)</h4>
+ <h4>sungwoo Kim (김성우)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
                                                         
                                                       
