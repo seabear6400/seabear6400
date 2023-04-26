@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
-<h1> Experience </h1>
 
 ### MY SNS 📷
 
