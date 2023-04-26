@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ## 💭 About me
  <h4>sungwoo Kim (김성우)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
-                                                        
-                                                      
+ <h4>동아리 : 프로그래머스</h4>                                                       
+ <h4>스터디 : 해킹스터디,개발스터디</h4>
+ <h4>개발 스터디 : 알고리즘 수업</h4>
 # 🛠Skills🛠
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -39,7 +40,5 @@ Here are some ideas to get you started:
 
 </div>
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
 
 ### MY SNS 📷
