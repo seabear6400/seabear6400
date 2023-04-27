@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 # Information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/gogi102/JunseogYang-Java-Python)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogi102&layout=compact)](https://github.com/seabear6400/coding_up)
   
 
  
