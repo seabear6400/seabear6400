@@ -20,7 +20,10 @@ Here are some ideas to get you started:
  
 # Information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seabear6400&layout=compact)](https://github.com/seabear6400/coding_up)(https://github.com/seabear6400/class)(https://github.com/seabear6400/baekjun-python)(https://github.com/seabear6400/java-class.java)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seabear6400&layout=compact)](https://github.com/seabear6400/class)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seabear6400&layout=compact)](https://github.com/seabear6400/baekjun-python)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seabear6400&layout=compact)](https://github.com/seabear6400/java-class.java)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seabear6400&layout=compact)](https://github.com/seabear6400/coding_up)
   
 
  
