@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sungwoo's+GitHub!👋)](https://git.io/typing-svg)
  
 # Information
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seabear6400&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seabear6400&layout=compact)](https://github.com/seabear6400/class)
 
 
