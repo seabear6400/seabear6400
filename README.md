@@ -1,4 +1,4 @@
-### <h1>준희야안녕👋</h1> 
+### <h1>안녕하세용👋</h1> 
 
 <!--
 **seabear6400/seabear6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
