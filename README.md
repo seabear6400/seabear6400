@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
  
 ## 💭 About me
+<div>
+  <a href="https://github.com/RamonLarcherRibeiro">
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seabear64001&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=pm4c1&theme=algolia" alt="GitHub Streak" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pm4c1&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pm4c1&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pm4c1&theme=algolia">
+</div>
  <h4>sungwoo Kim (김성우)</h4>
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
  <h4>동아리 : 프로그래머스</h4>                                                       
