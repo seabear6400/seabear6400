@@ -25,7 +25,7 @@
  <h4>스터디 : 해킹스터디,개발스터디</h4>
  <h4>개발 스터디 : 알고리즘 수업</h4>
  
-# 🛠Skills🛠
+# 🛠기술🛠
 ### Platforms & Languages
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
