@@ -43,7 +43,7 @@
 <br/>
 
 
-### MY SNS 📷
+### 나의 SNS 📷
 
 
 | What | When | What | When|
